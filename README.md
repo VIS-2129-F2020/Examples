@@ -1,2 +1,2 @@
 # Examples
-Sample Portfolio
+Content for sample waiver portfolio
